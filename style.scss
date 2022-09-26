@@ -1,5 +1,5 @@
 body {
-  background-color: hsl(218, 44%, 22%);
+  background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
 }
 
@@ -23,6 +23,7 @@ body {
   border-radius: 20px;
   height: 460px;
   width: 320px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 img {
@@ -46,6 +47,10 @@ h3 {
   color:hsl(220, 15%, 55%);
   font-weight:400;
   padding: 0 31px;
+}
+
+.attribution{
+  text-align: center;
 }
 
 
