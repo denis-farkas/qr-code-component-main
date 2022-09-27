@@ -16,15 +16,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-[./screenshot.jpg]
+![./screenshot.jpg](./screenshot.jpg)
 
 
 
 ### Links
 
-- Solution URL: [https://github.com/denis-farkas/qr-code-component-main]
-- Live Site URL: [https://denis-farkas.github.io/qr-code-component-main/]
+- Solution URL: [Github](https://github.com/denis-farkas/qr-code-component-main)
+- Live Site URL: [github page](https://denis-farkas.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -41,7 +40,7 @@ Without figma's ressources, I worked directly with background image .
 
 ## Author
 
-- Website - [https://denis-farkas.students-laplateforme.io/]
-- Frontend Mentor - [@denis-farkas]
+- Website - [Portfolio](https://denis-farkas.students-laplateforme.io/)
+- Frontend Mentor - [@denis-farkas](https://www.frontendmentor.io/profile/denis-farkas)
 
 
